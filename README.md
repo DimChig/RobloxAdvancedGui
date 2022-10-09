@@ -9,7 +9,7 @@ About game:
 - What id does, it basically captures screenshots of my screen, analyzes pixels, finds similar images (on minimap) and draws on top of my screen using pygame window with "position always on top". This "advanced gui" really helps in game and provides me with new information
 - Around 1k lines of code
 
-Game Features:
+Cheat Features:
 - Custom minimap with sound alerts
 - More useful custom healthbar
 - Inventory auto-sorter, witch reordered all items in a way, that i was used to
