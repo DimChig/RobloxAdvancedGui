@@ -24,4 +24,3 @@ RobloxAdvancedGui is a custom set of GUI enhancements, including a minimap, heal
 
 ![Gameplay Screenshot 1](/img/GamingScreenshots/screen1.jpg?raw=true)
 ![Gameplay Screenshot 2](/img/GamingScreenshots/screen2.jpg?raw=true)
-![Gameplay Screenshot 3](/img/GamingScreenshots/screen3.jpg?raw=true)
