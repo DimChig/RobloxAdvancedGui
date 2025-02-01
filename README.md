@@ -1,6 +1,10 @@
 # RobloxAdvancedGui
 
-RobloxAdvancedGui is a custom set of GUI enhancements, including a minimap, health bar, and inventory sorter, designed for the game Roblox.
+RoboxAdvancedGui is a custom set of GUI enhancements, including a minimap, health bar, and inventory sorter, designed for the game Roblox.
+
+![Gameplay Screenshot 1](/img/GamingScreenshots/screen1.jpg?raw=true)
+
+---
 
 ## About the Project
 
@@ -20,7 +24,5 @@ RobloxAdvancedGui is a custom set of GUI enhancements, including a minimap, heal
 - **Map Analyzer**: Identifies popular player locations on the map.
 - **And More!**: This project provided a deep dive into computer vision concepts and techniques.
 
-## Gameplay Screenshots
-
-![Gameplay Screenshot 1](/img/GamingScreenshots/screen1.jpg?raw=true)
+## Dev Screenshot
 ![Gameplay Screenshot 2](/img/GamingScreenshots/screen2.jpg?raw=true)
